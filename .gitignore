@@ -89,3 +89,6 @@ target/
 
 # Data
 /data/
+
+#Itermediate
+/notebook/audio-chunks
